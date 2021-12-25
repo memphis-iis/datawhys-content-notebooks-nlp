@@ -1,0 +1,28 @@
+name: datawhys
+channels:
+  - conda-forge
+  - defaults
+  - plotly
+  - pytorch
+dependencies:
+  - python=3.7
+  - xeus-python
+  - jupyterlab=1.2.14
+  - ptvsd
+  - nodejs
+  - plotly=4.8.1
+  - pip
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - ipympl
+  - numpy
+  - nltk
+  - scikit-learn=0.21
+  - spacy=2.2.4
+  - spacy-transformers=0.5.1
+  - pytorch 
+  - torchvision
+  - gensim=3.8.1
+  - pip:
+    - jupyter-offlinenotebook==0.0.11
