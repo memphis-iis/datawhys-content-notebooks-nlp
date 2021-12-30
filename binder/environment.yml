@@ -1,4 +1,4 @@
-name: datawhys
+name: datawhys-nlp
 channels:
   - conda-forge
   - defaults
@@ -6,23 +6,23 @@ channels:
   - pytorch
 dependencies:
   - python=3.7
-  - xeus-python
-  - jupyterlab=1.2.14
+  - xeus-python=0.6.8
+  - jupyterlab=1.2
   - ptvsd
-  - nodejs
-  - plotly=4.8.1
+  - nodejs=16
+  - openssl<3
+  - plotly
   - pip
   - pandas
   - matplotlib
   - scikit-learn
   - ipympl
   - numpy
-  - nltk
-  - scikit-learn=0.21
-  - spacy=2.2.4
-  - spacy-transformers=0.5.1
+  - nltk=3.4.5
+  - scikit-learn
+  - spacy=3
+  - spacy-transformers
+  - neuralcoref
   - pytorch 
-  - torchvision
-  - gensim=3.8.1
-  - pip:
-    - jupyter-offlinenotebook==0.0.11
+  - gensim
+  - pyldavis
