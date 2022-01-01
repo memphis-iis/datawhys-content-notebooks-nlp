@@ -1,10 +1,6 @@
 # DataWhys Content Notebooks - NLP
 
-<div class="alert alert-danger">
-    
-**Draft status**
-    
-</div>
+**Status: content coverage is complete, but problem solving exercises do not exist for the last 3 modules (12/31/21)**
 
 This repository contains **special topic notebooks on NLP** for DataWhys in the form of JupyterLab notebooks (.ipynb files).
 
