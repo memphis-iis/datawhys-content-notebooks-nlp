@@ -1,6 +1,7 @@
 # DataWhys Content Notebooks - NLP
 
-**Status: content coverage is complete, but problem solving exercises do not exist for the last 3 modules (12/31/21)**
+> [!NOTE]  
+> These notebooks have slight incompatibilities with [our latest blocks extention](https://github.com/aolney/jupyterlab-blockly-polyglot-extension): blocks may not render correctly when you click on solutions. However you should be able to solve all problems with the new extension.
 
 This repository contains **special topic notebooks on NLP** for DataWhys in the form of JupyterLab notebooks (.ipynb files).
 
