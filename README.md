@@ -65,7 +65,7 @@ Launch a demo session by clicking on the Binder badge below.
 
 If you've never used Jupyter or want to try the Blockly extension, check out the tutorial video below.
 
-[![Tutorial video using Blockly](https://img.youtube.com/vi/-luPzplPDI0/0.jpg)](https://youtu.be/-luPzplPDI0 "Tutorial video using Blockly")
+[![Tutorial video using Blockly](https://img.youtube.com/vi/Bmd60BQP0Qk/0.jpg)](https://youtu.be/Bmd60BQP0Qk "Tutorial video using Blockly")
 
 
 ## Development
@@ -73,8 +73,7 @@ If you've never used Jupyter or want to try the Blockly extension, check out the
 ### Prerequisites
 
 - [JupyterLab](https://jupyter.org/install)
-- [Blockly extension](https://github.com/aolney/fable-jupyterlab-blockly-extension) (optional but strongly recommended)
-- [Xeus Python Kernel](https://github.com/jupyter-xeus/xeus-python) (optional but strongly recommended)
+- [JupyterLab Blockly extension](https://github.com/aolney/jupyterlab-blockly-polyglot-extension) (optional but strongly recommended)
 
 The above is a minimal environment.
 See the `binder` subfolder for the recommended [conda env](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) and [JupyterLab extension](https://jupyterlab.readthedocs.io/en/stable/user/extensions.html#using-the-terminal) installation.
