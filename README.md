@@ -76,7 +76,7 @@ If you've never used Jupyter or want to try the Blockly extension, check out the
 - [JupyterLab Blockly extension](https://github.com/aolney/jupyterlab-blockly-polyglot-extension) (optional but strongly recommended)
 
 The above is a minimal environment.
-See the `binder` subfolder for the recommended [conda env](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) and [JupyterLab extension](https://jupyterlab.readthedocs.io/en/stable/user/extensions.html#using-the-terminal) installation.
+See the `binder` subfolder for the recommended [conda env](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) and [JupyterLab extension](https://jupyterlab.readthedocs.io/en/stable/user/extensions.html#using-the-terminal) installation, but note these are for JupyterLab 1.2.x; see [the core repo](https://github.com/memphis-iis/datawhys-content-notebooks) for the latest JupyterLab.
 
 ### Internal development
 
